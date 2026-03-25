@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Viúva Negra (Natasha Romanoff)",
+    "origin": "Marvel Comics",
+    "imga": "https://th.bing.com/th/id/OIP.TkN-pNC6Cizp307t_1408QHaEK?w=298&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+    "genero": "Feminino",
+    "categoria": "Super-heroína, Ação, Espionagem"
+  },
+  {
+    "name": "Homem Aranha (Peter Parker)",
+    "origin": "Marvel Comics",
+    "imga": "https://tse4.mm.bing.net/th/id/OIP.PXaQ1g_4ZI8r91g2EJrRDQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "genero": "Masculino",
+    "categoria": "Super-herói, Ação"
+  },
+  {
+    "name": "Doutor Estranho (Stephen Strange)",
+    "origin": "Marvel Comics",
+    "imga": "https://tse3.mm.bing.net/th/id/OIP.yfSjj-1HPLCj92Gh59Y0NAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "genero": "Masculino",
+    "categoria": "Ação/Aventura, Fantasia Sombria / Sobrenatural "
+  },
+  {
+    "name": "Doutor Octopus (Otto Octavius)",
+    "origin": "Marvel Comics",
+    "imga": "https://wallpaperaccess.com/full/6181363.jpg",
+    "genero": "Masculino",
+    "categoria": "Sobrenatural"
+  },
+  {
+    "name": "Tempestade (Ororo Munroe)",
+    "origin": "Marvel Comics",
+    "imga": "https://tse3.mm.bing.net/th/id/OIP.sDr1Ljgqz6Aj2S1JHj8fowHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "genero": "Feminino",
+    "categoria": "Histórico, Mistério, Drama"
+  },
+  {
+    "name": "Pantera Negra (T'Challa)",
+    "origin": "Marvel Comics",
+    "imga": "https://i.ytimg.com/vi/XIEtW96Asrc/maxresdefault.jpg",
+    "genero": "Masculino",
+    "categoria": "Super-herói, Ação"
+  },
+  {
+    "name": "Justiceiro (Frank Castle)",
+    "origin": "Marvel Comics",
+    "imga": "https://i0.wp.com/www.salvandonerd.blog.br/wp-content/uploads/2017/10/O-Justiceiro.jpg?fit=838%2C471&ssl=1",
+    "genero": "Masculino",
+    "categoria": "Ação, Crime, Drama"
+  },
+  {
+    "name": "Homem de Ferro (Tony Stark)",
+    "origin": "Marvel Comics",
+    "imga": "https://falabarreiras.com/wp-content/uploads/2022/01/homem-de-ferro-tony-divulgacao1.jpg",
+    "genero": "Masculino",
+    "categoria": "Super-herói, Ação"
+  },
+  {
+    "name": "Capitão América (Steve Rogers)",
+    "origin": "Marvel Comics",
+    "imga": "https://wallpapers.com/images/hd/captain-america-pictures-k3pa1f67sj9n1voc.jpg",
+    "genero": "Masculino",
+    "categoria": "Ação, Fantasia Sombria"
+  },
+  {
+    "name": "Mulher Invisivel (Susan Storm)",
+    "origin": "Marvel Comics",
+    "imga": "https://th.bing.com/th/id/R.c3f7d9d8d1c9301b8091c8a2bbd11fa8?rik=4Ep970V28W3t%2bA&riu=http%3a%2f%2f1.bp.blogspot.com%2f_hEWH90O6Vfk%2fTQzUbq9h6sI%2fAAAAAAAAACU%2fbLTWy675zME%2fs1600%2fmulher-invisivel-5bcc9%25255B1%25255D.jpg&ehk=0J91IUqhWOKz%2fruBpOoMWUfRdnakjnK8tmyK3lgvWV0%3d&risl=&pid=ImgRaw&r=0",
+    "genero": "Feminino",
+    "categoria": "Ação, Drama e Ficção Científica"
+  },
+   {
+    "name": "Gamora (Zen Whoberi Ben Titan)",
+    "origin": "Marvel Comics",
+    "imga": "https://tse4.mm.bing.net/th/id/OIP.sqorHRk_WEJhrNwVqLMB5gHaKA?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "genero": "Feminino",
+    "categoria": "Ação, Drama e Ficção Científica"
+  },
+   {
+    "name": "Kamala Khan (Ms. Marvel)",
+    "origin": "Marvel Comics",
+    "imga": "https://tse3.mm.bing.net/th/id/OIP.TFW8leFsOI-VMqkj3Sw8lwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "genero": "Feminino",
+    "categoria": "Fantasia Sombria, Mistério e Ação"
+  },
+  {
+    "name": "Electro (Max Dillon)",
+    "origin": "Marvel Comics",
+    "imga": "https://ovicio.com.br/wp-content/uploads/2021/11/20211110-electro-ovicio-730x365.jpg",
+    "genero": "Masculino",
+    "categoria": "Sobrenatural, Vida Escolar e Slice-of-Life"
+  },
+  {
+    "name": "Hulk (Bruce Banner)",
+    "origin": "Marvel Comics",
+    "imga": "https://images.hdqwalls.com/download/ready-for-hulk-smash-5u-1920x1080.jpg",
+    "genero": "Masculino",
+    "categoria": "Ação e Fantasia Sombria"
+  },
+  {
+    "name": "Homem Areia (Sandman)",
+    "origin": "Marvel Comics",
+    "imga": "https://altoastral.joaobidu.com.br/media/uploads/legacy/2016/08/sandman-alfred-molina-to-return-as-doc-ock-in-sinister-six_1.jpg",
+    "genero": "Masculino",
+    "categoria": "Máfia, Drama, Comédia, Suspense"
+  }
+]

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../style/style.css">
+    <title>Personagens Marvel</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+      <h1>Galeria de Personagens</h1>
+    </header>
+
+    <main>
+      <section class="personagens">
+        <div id="lista-personagens"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Projeto Responsividade - Kauan Vinícius</p>
+    </footer>
+
+    <script>
+      async function carregarPersonagens() {
+        const response = await fetch("personagens.json");
+        const personagens = await response.json();
+
+        const container = document.getElementById("lista-personagens");
+
+        personagens.forEach((p) => {
+          const card = document.createElement("div");
+          card.classList.add("card");
+
+          card.innerHTML = `
+            <img src="${p.imga}" alt="${p.name}">
+            <h3>${p.name}</h3>
+            <p class="origin"><strong>Origem:</strong> ${p.origin}</p>
+            <p class="genero"><strong>Gênero:</strong> ${p.genero}</p>
+            <p class="categoria"><strong>Categoria:</strong> ${p.categoria}</p>
+        `;
+
+          container.appendChild(card);
+        });
+      }
+
+      carregarPersonagens();
+    </script>
+  </body>
+</html>
